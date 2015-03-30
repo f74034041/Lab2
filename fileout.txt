@@ -1,0 +1,5 @@
+Height  Mass    Bmi   	Category
+--------------------------
+ 170      68	23.5294	Normal
+ 162      43	16.3847	Underweight
+ 192      58	15.7335	Severely underweight
